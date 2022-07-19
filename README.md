@@ -1,6 +1,6 @@
 # Pipe Network
 
-<b><i>Hosted on netfily - https://evopipenetwork.netlify.app/</i></b>
+<b><i>Hosted on netfily - https://pipenetwork.netlify.app/</i></b>
 
 <b>Description</b>
 <p>
